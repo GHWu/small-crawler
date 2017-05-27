@@ -1,2 +1,4 @@
 ## A small crawler build with nodejs
-START: ``node crawler.js``
+The project is used to obtain movie resources
+
+START:      ``node crawler.js``
